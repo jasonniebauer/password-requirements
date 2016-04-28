@@ -1,6 +1,6 @@
 # Password Requirements
 
-Sign Up should be easy!
+Creating a password should be easy!
 
 ---
 
