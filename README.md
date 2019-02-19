@@ -1,6 +1,6 @@
 # Password Requirements
 
-Creating a password should be easy!
+Creating a password should be easy.
 
 ---
 
